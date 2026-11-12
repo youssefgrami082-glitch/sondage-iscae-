@@ -1,0 +1,6 @@
+{
+  "name": "Forum Management & Marketing - Faculté",
+  "description": "Plateforme interactive de consultation et d'expression étudiante pour l'événement Management & Marketing à la faculté.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
